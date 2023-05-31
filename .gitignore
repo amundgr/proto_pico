@@ -27,3 +27,5 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Library table due to use of own silly library

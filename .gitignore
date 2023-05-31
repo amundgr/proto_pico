@@ -29,5 +29,5 @@ fp-info-cache
 *.csv
 
 # Library table due to use of own silly library
-fp-lib-table
-sym-lib-table
+*fp-lib-table
+*sym-lib-table

@@ -1502,7 +1502,7 @@
 
   (footprint "Memory:SOIC-8_5.23x5.23mm_P1.27mm" (layer "F.Cu")
     (tstamp 3c64505c-9243-4e3a-b140-a438cb98029d)
-    (at 202.942 156.756)
+    (at 164.382 115.443)
     (descr "SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
     (property "Sheetfile" "proto_pico.kicad_sch")
@@ -6656,5 +6656,18 @@
       (rotate (xyz 0 0 0))
     )
   )
+
+  (segment (start 167.982 113.538) (end 168.183751 113.538) (width 0.25) (layer "F.Cu") (net 1) (tstamp c56df7aa-0d0e-4b83-a6a9-9308f01e7f4b))
+  (segment (start 173.989251 119.3435) (end 175.2255 119.3435) (width 0.25) (layer "F.Cu") (net 1) (tstamp d6ed8a42-dabb-4df7-88aa-3822b76e46f9))
+  (segment (start 168.183751 113.538) (end 173.989251 119.3435) (width 0.25) (layer "F.Cu") (net 1) (tstamp eb097378-f728-4101-b03f-48b75eee7f47))
+  (segment (start 168.183751 114.808) (end 173.517751 120.142) (width 0.25) (layer "F.Cu") (net 119) (tstamp 1efce4cc-6b14-44e1-811c-888a9a48ea98))
+  (segment (start 173.517751 120.142) (end 177.292 120.142) (width 0.25) (layer "F.Cu") (net 119) (tstamp 30c2c3ea-a8e2-47c4-90c0-f2279328421e))
+  (segment (start 167.982 114.808) (end 168.183751 114.808) (width 0.25) (layer "F.Cu") (net 119) (tstamp 58233ebe-d371-46c9-8c1f-293fb1f22c51))
+  (segment (start 177.508 120.358) (end 177.508 121.08117) (width 0.25) (layer "F.Cu") (net 119) (tstamp d5814f87-73ee-4f00-baa9-87b469415645))
+  (segment (start 177.292 120.142) (end 177.508 120.358) (width 0.25) (layer "F.Cu") (net 119) (tstamp e648147a-dfee-4860-86ac-cd0f258f4973))
+  (segment (start 172.755751 120.65) (end 177.038 120.65) (width 0.25) (layer "F.Cu") (net 120) (tstamp 5b8358c3-2e86-4943-b083-f3e291efca03))
+  (segment (start 177.038 120.65) (end 177.038 120.9365) (width 0.25) (layer "F.Cu") (net 120) (tstamp 744abb56-c805-4183-ae27-07f3db95281f))
+  (segment (start 167.982 116.078) (end 168.183751 116.078) (width 0.25) (layer "F.Cu") (net 120) (tstamp ea4bb006-f6d9-4e16-98b7-019525c0d1f2))
+  (segment (start 168.183751 116.078) (end 172.755751 120.65) (width 0.25) (layer "F.Cu") (net 120) (tstamp f7844d14-be79-4558-b1b6-c525a84614fe))
 
 )
